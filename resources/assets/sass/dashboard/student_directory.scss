@@ -1,0 +1,37 @@
+.student_directory {
+  .student_directory_search {
+    margin: 10px 0;
+  }
+  .students {
+    .student {
+      margin: 10px;
+      border: 1px solid #e3e3e3;
+      cursor: pointer;
+      border-radius: 5px;
+      .student_heading{
+        padding: 10px;
+        background-color: #e3e3e3;
+      }
+      .student_body {
+        display: flex;
+        width: 100%;
+        height: 100%;
+        padding: 10px;
+        .student_body_skills_heading {
+          font-size: 20px;
+          color: #333;
+          display: inline-block;
+          text-align: center;
+          border-bottom: 1px solid yellow;
+        }
+        .student_body_avatar {
+          img {
+            width: 80%;
+            height: auto;
+          }
+        }
+      }
+    }
+  }
+
+}

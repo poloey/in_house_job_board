@@ -1,0 +1,20 @@
+/**
+ * Basic bulma components
+ */
+@import "utilities/_all.scss";
+@import "_helpers.scss";
+@import "_box.scss";
+@import "_button.scss";
+@import "_card.scss";
+@import "_form.scss";
+@import "_icon.scss";
+@import "_level.scss";
+@import "_notification.scss";
+@import "_tag.scss";
+@import "_title.scss";
+@import "_panel.scss";
+
+//others
+.delete {
+  @include delete;
+}

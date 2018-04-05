@@ -1,0 +1,17 @@
+@import 'dashboard.scss';
+@import "job.scss";
+@import "knowledge_base.scss";
+@import "student_directory.scss";
+
+/**
+ * some helper class
+ */
+.display-inline {
+  display: inline;
+}
+.display-block {
+  display: block;
+}
+.display-inline-block {
+  display: inline-block;
+}

@@ -1,0 +1,3 @@
+index = http://localhost:8000/api/jobs?api_token=l4n5svH5u8VH6bVgWPzoNY6SJeVu7jlA5OCb6Ai0fgN4avYGgzDXynl2kIQp
+
+singlejob = http://localhost:8000/api/jobs/omnis-aliquid-earum-atque-libero-excepturi-eum-aut?api_token=l4n5svH5u8VH6bVgWPzoNY6SJeVu7jlA5OCb6Ai0fgN4avYGgzDXynl2kIQp
